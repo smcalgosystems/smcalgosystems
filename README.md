@@ -1,4 +1,4 @@
-# Hamid Hadadian
+# Hamid Haddadian
 
 Algorithmic Trading Systems Developer focused on **MQL4/MQL5**, **Python**, and **machine learning for trading**.
 
