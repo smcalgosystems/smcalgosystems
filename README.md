@@ -13,7 +13,7 @@
 
 ## 🚀 Welcome to my institutional‑grade trading systems lab
 
-📍 **8+ years of algorithmic trading development** | **50+ proprietary EAs live in markets** | **10000+ hours of backtesting & optimization**
+📍 **8+ years of algorithmic trading development** | **50+ proprietary EAs live in markets** | **10,000+ hours of backtesting & optimization**
 
 I don’t just write indicators or EAs — I build **complete execution ecosystems** that bridge **discretionary trading logic** with **production‑ready automation**.
 
